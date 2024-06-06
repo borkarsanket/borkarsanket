@@ -18,7 +18,7 @@ Looking to collaborate on exciting **DevOps projects** and **automation solution
 
 ### 📫 Reach Me At:
 - **Email:** sanketborkar72@gmail.com
-- **LinkedIn:** [Borkar Sanket](https://www.linkedin.com/in/borkar-sanket)
+- **LinkedIn:** [Borkar Sanket](https://www.linkedin.com/in/sanket-borkar)
 - **GitHub:** [@BorkarSanket](https://github.com/borkarsanket)
 
 ### 😄 Pronouns:
